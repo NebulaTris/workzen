@@ -1,5 +1,6 @@
 
-![workzen](https://github.com/NebulaTris/workzen/assets/94922914/a6deee42-0701-4d68-8c5c-5ffa4a6bd735)
+<!--![workzen](https://github.com/NebulaTris/workzen/assets/94922914/a6deee42-0701-4d68-8c5c-5ffa4a6bd735)-->
+<img src="workzen.png"/>
 <p align="center">
 <img src="https://img.shields.io/badge/Project%20Status-WIP-blue.svg">
 <a href="https://gitmoji.dev">
