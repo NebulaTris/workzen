@@ -1,7 +1,13 @@
 
 ![workzen](https://github.com/NebulaTris/workzen/assets/94922914/a6deee42-0701-4d68-8c5c-5ffa4a6bd735)
 <p align="center">
-<img src="https://img.shields.io/badge/Project%20Status-WIP-blue.svg"></img>
+<img src="https://img.shields.io/badge/Project%20Status-WIP-blue.svg">
+<a href="https://gitmoji.dev">
+  <img
+    src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square"
+    alt="Gitmoji"
+  />
+</a></img>
 </p>
 
 WorkZen is a powerful task management application built with modern web technologies, including React (Next.js 13.4), GPT-4 for intelligent task suggestions, drag and drop functionality, Zustand for state management, and powered by the Appwrite Cloud backend. It offers an intuitive user interface and seamless task organization to enhance your productivity.
