@@ -14,8 +14,8 @@ function Header() {
       left-0
       w-full
       h-96
-      bg-gradient-to-b
-      from-violet-700 to-[#0e7fc9]
+      bg-gradient-to-br
+      from-pink-500 to-[#0e7fc9]
       rounded-md
       filter
       blur-3xl
@@ -24,8 +24,8 @@ function Header() {
 
     <Image src="/workzen.png" 
     alt="WorkZen Logo" 
-    width={300} 
-    height={100} 
+    width={500} 
+    height={200} 
     className="w-44 md:w-56 pb-10 md:pb-0 object-contain" 
     />
     <div className='flex items-center space-x-5 flex-1 justify-end w-full'>
