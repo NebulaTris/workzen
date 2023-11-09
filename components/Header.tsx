@@ -7,15 +7,15 @@ import Avatar from 'react-avatar';
 function Header() {
   return (
     <header>
-    <div className='flex flex-col md:flex-row items-center p-5 bg-gray-500/10'>
+    <div className='flex flex-col md:flex-row items-center p-5 bg-gray-500/9'>
       <div className='
       absolute 
       top-0
       left-0
       w-full
       h-96
-      bg-gradient-to-br
-      from-pink-500 to-[#0e7fc9]
+      bg-gradient-to-b
+      from-indigo-500 to-[#0e7fc9]
       rounded-md
       filter
       blur-3xl
