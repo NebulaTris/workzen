@@ -14,13 +14,14 @@ function Header() {
       left-0
       w-full
       h-96
-      bg-gradient-to-b
-      from-indigo-500 to-[#0e7fc9]
+      bg-[radial-gradient(ellipse_at_top_left,_var(--tw-gradient-stops))] from-purple-600 via-blue-500 to-pink-300
       rounded-md
       filter
       blur-3xl
       opacity-50
       -z-50'/>
+
+      
 
     <Image src="/workzen.png" 
     alt="WorkZen Logo" 
@@ -36,13 +37,13 @@ function Header() {
         <button type='submit' hidden>Search</button>
       </form>
       {/*Avatar*/}
-      <Avatar name='Shambhavi Mishra' size='50' round={true} color="#0e7fc9" />
+      <Avatar name='Shambhavi Mishra' size='50' round={true} color="#2196f3" />
     </div>
     </div>
 
     <div className='flex items-center justify-center px-5 py-2 md:py-5'>
-      <p className='flex items-center p-5 text-sm font-light pr-5 shadow-xl rounded-xl w-fit bg-white italic max-w-3xl text-[#0e7fc9] '>
-        <UserCircleIcon className='inline-block h-10 w-10 text-[#0e7fc9] mr-1 '/>
+      <p className='flex items-center p-5 text-sm font-light pr-5 shadow-xl rounded-xl w-fit bg-white italic max-w-3xl text-blue-500 '>
+        <UserCircleIcon className='inline-block h-10 w-10 text-blue-500 mr-1 '/>
         GPT is summarising your tasks for the day...
       </p>
     </div>
